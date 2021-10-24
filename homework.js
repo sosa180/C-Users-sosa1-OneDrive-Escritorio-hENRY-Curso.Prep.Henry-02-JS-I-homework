@@ -29,6 +29,7 @@ function devolverString(str) {
   // "Return" la string provista: str
   // Tu código:
   return str;
+  system.out.println("este es un mensaje nuevo");
 }
 
 function suma(x, y) {
